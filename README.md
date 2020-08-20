@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on minder, and by working I mean that if I have time and courage and I will do something there.
+- 🌱 I’m currently learning style transfer, trying to convert real people to drawing using a particular artist style
+- 👯 I’m looking to collaborate on open source projects, but none spark joy.
+- 🤔 I’m looking for help with AI, I have 40+ list of paired images and I'm looking for a way to use an unpaired pre-trained model and only fine tune in the end with the paired images I have
+- 💬 Ask me about anything of the FB open source projects.
+- 📫 How to reach me: m.me/davicatunda
+- 😄 Pronouns: use my name it is small and beatiful
+- ⚡ Fun fact: I'm a simpleton
+
 <!--
 **davicatunda/davicatunda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
